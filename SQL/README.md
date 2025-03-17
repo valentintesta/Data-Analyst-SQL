@@ -53,7 +53,6 @@ Develop an interactive loan analytics dashboard.
 
 ## 6. SQL-Homework: Suspicious Transactions Analysis (Fraud Detection)
 Identify fraudulent credit card transactions using SQL.
-
 ### Key Features:
   - Grouping transactions per cardholder.
   - High-value transactions analysis (top 100).
