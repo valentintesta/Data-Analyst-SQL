@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio, showcasing projects using Power BI and SQL for data-driven insights and business intelligence.
+Welcome to my Data Analyst Portfolio, showcasing projects using Python, Power BI and SQL for data-driven insights and business intelligence.
 
 ## 🔹 Power BI Projects
 
