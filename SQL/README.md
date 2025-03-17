@@ -40,7 +40,7 @@ These projects leverage SQL to provide in-depth insights, helping professionals 
 ### 5. Fintech Loan Dashboard (SQL + Python/Streamlit)
 Develop an interactive loan analytics dashboard.
 
-### Key Features:
+#### Key Features:
 
    - **Filters:** Analyze loans by region, status, purpose, and year.
    - **Visualizations:** Loan purpose breakdown, status distribution, YOY trends, correlation heatmap.
@@ -51,9 +51,9 @@ Develop an interactive loan analytics dashboard.
        Real-time data updates from live databases.
        UI/UX enhancements with advanced customization.
 
-## 6. SQL-Homework: Suspicious Transactions Analysis (Fraud Detection)
+### 6. SQL-Homework: Suspicious Transactions Analysis (Fraud Detection)
 Identify fraudulent credit card transactions using SQL.
-### Key Features:
+#### Key Features:
   - Grouping transactions per cardholder.
   - High-value transactions analysis (top 100).
   - Time-specific fraud detection (7:00-9:00 a.m.).
