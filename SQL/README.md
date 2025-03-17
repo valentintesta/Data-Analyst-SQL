@@ -36,3 +36,30 @@ Identified top artists and tracks with the highest views and streams.
 Analyzed relationships between song features (e.g., energy, tempo) and popularity.
 Investigated album types, official video performance, and the impact of features like liveness and danceability.
 These projects leverage SQL to provide in-depth insights, helping professionals in various industries make data-driven decisions and improve operational strategies.
+
+### 5. Fintech Loan Dashboard (SQL + Python/Streamlit)
+Develop an interactive loan analytics dashboard.
+
+### Key Features:
+
+   - **Filters:** Analyze loans by region, status, purpose, and year.
+   - **Visualizations:** Loan purpose breakdown, status distribution, YOY trends, correlation heatmap.
+   - **Financial Metrics:** Loan amounts, funded amounts, interest rate trends.
+   - **Tech Stack:** Python (Pandas, Plotly, Seaborn), Streamlit, SQL database integration.
+   - **Future Enhancements:**
+       Machine learning models for loan default prediction.
+       Real-time data updates from live databases.
+       UI/UX enhancements with advanced customization.
+
+
+## 6. SQL-Homework: Suspicious Transactions Analysis (Fraud Detection)
+Identify fraudulent credit card transactions using SQL.
+
+### Key Features:
+  - Grouping transactions per cardholder.
+  - High-value transactions analysis (top 100).
+  - Time-specific fraud detection (7:00-9:00 a.m.).
+  - Identification of anomalous transactions (>$1,000 vs. <$20 norm).
+  - Small-value ($<2) transaction patterns to detect possible hacks.
+  - Some cardholders exhibit frequent small transactions, but conclusive fraud evidence is limited.
+
