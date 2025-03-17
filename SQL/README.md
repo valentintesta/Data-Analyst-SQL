@@ -51,7 +51,6 @@ Develop an interactive loan analytics dashboard.
        Real-time data updates from live databases.
        UI/UX enhancements with advanced customization.
 
-
 ## 6. SQL-Homework: Suspicious Transactions Analysis (Fraud Detection)
 Identify fraudulent credit card transactions using SQL.
 
