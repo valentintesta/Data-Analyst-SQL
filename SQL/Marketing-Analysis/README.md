@@ -7,20 +7,14 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
 
 ## Files in This Repository
 
-### 1. SQL_Analysis.sql
+###  SQL_Analysis.sql
 - **Description**: A SQL script to extract marketing and customer review data from the database.
 - **Features**:
   - Retrieves detailed customer reviews, ratings, and product-related information.
   - Provides structured data for further analysis.
 
-### 2. Py_Analysis.py
-- **Description**: A Python script for sentiment analysis of customer reviews.
-- **Features**:
-  - Analyzes sentiment using the VADER sentiment analysis tool.
-  - Categorizes reviews as Positive, Negative, Neutral, Mixed Positive, or Mixed Negative.
-  - Saves the output as `dbo_customer_reviews_with_sentiment.csv` for visualization.
 
-### 3. Marketing_Analysis.pbix
+### Marketing_Analysis.pbix
 - **Description**: A Power BI file containing a marketing analysis dashboard.
 - **Features**:
   - Interactive visualizations of marketing KPIs and customer insights.
@@ -58,22 +52,6 @@ This project aims to analyze marketing data using SQL and Python, with a Power B
 
 ---
 
-## How to Use
-
-### Prerequisites
-- SQL Server or an equivalent database with marketing data.
-- Python environment with the following libraries installed:
-  - `pandas`
-  - `nltk`
-  - `pyodbc`
-- Power BI Desktop to open and view the `.pbix` file.
-
-### Steps
-1. Run `SQL_Analysis.sql` to extract marketing data.
-2. Execute `Py_Analysis.py` to perform sentiment analysis.
-3. Open `Marketing_Analysis.pbix` in Power BI Desktop to explore the interactive dashboard.
-
----
 
 ## Output Insights
 - **Marketing Trends**: Understand which products drive engagement and conversions.
@@ -90,14 +68,3 @@ This project includes a professional presentation summarizing key insights and f
 
 The presentation is structured to provide actionable insights and visually appealing dashboards for stakeholders.
 
----
-
-## Contribution
-Feel free to contribute by raising issues or submitting pull requests to enhance the project.
-
----
-
-## Programmer
-**Mohamed Ahmed Gadia**  
-Email: [mohamedgadia00@gmail.com]  
-LinkedIn: [Mohamed Gadia](https://www.linkedin.com/in/mohamedgadia) 
